@@ -1,0 +1,29 @@
+<!DOCTYPE HTML>
+
+<head>
+<meta charset="UTF -8">
+<meta name="viewport" content="width=device-width, initial-scale = 1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title> Reane's Profile </title>
+<link rel= <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+</head>
+
+<body>
+<header>
+<h2>Reane Sutoyo Profile</h2>
+<h3>My Hobbies</h3>
+<ol class ="interesting hobbies>
+<li class="interesting hobbies"> I love to draw, paint and design</li>
+<li class="interesting hobbies"> I love to go outdoors and enjoy the scenery</li>
+<li class="interesting hobbies"> I also love to cook and learn new recipes </li>
+<li class="interesting hobbies"> My new hobby now is learning how to program :)</li>
+
+</ol>
+
+<article title="A little about Me">
+<h2> A background story</h1>
+<h3> <p> I am originally from Indonesia.  I grew up in the town called Jakarta, which also the capital city of Indonesia. </p>
+</h3>
+
+</header>
+</body>
